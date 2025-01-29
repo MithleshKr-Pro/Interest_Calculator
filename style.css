@@ -1,0 +1,65 @@
+*{
+  background : #1d1d1beb;
+  color: orange;
+  font-family: sans-serif;
+  
+}
+body{
+  border-radius: 20px;
+  margin: 2rem;
+  padding: 1.5rem ;
+  text-align: center;
+}
+h1{
+  color: white;
+  border:4px double orange;
+  padding: 2rem 0 2rem 0;
+  border-radius: 10px;
+  background: black;
+  font-family: cursive;
+}
+h2{
+  text-decoration: 1px solid orange underline;
+  color: white;
+  padding: 1rem;
+  border-radius: 2rem;
+  
+}
+a{
+  text-decoration: none;
+}
+hr{
+  border: 1px solid #40403DEB;
+}
+.container{
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem ;
+  width: fit-content;
+  flex-wrap: wrap;
+}
+.calculator{
+  display: flex;
+  justify-self: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+input{
+  width: 100%;
+  border-radius: 1rem;
+  padding: 1rem;
+  border:1px solid orange;
+}
+button{
+  margin: 1rem;
+  padding: 1rem ;
+  border-radius: 2rem;
+  border: 2px solid grey;
+}
+.newAmt{
+  display:flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  color: orange;
+  padding: 1rem;
+}
