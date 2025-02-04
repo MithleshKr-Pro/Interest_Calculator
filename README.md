@@ -20,12 +20,21 @@ This **Income Tax Calculator** helps individuals calculate their total **income 
 ## 📊 Tax Slabs (New Regime 2025-26)
 | Income Slab | Tax Rate |
 |------------|---------|
-| Up to ₹3,00,000 | 0% |
-| ₹3,00,001 - ₹6,00,000 | 5% |
-| ₹6,00,001 - ₹9,00,000 | 10% |
-| ₹9,00,001 - ₹12,00,000 | 15% |
-| ₹12,00,001 - ₹15,00,000 | 20% |
-| Above ₹15,00,000 | 30% |
+| Up to ₹4,00,000 | 0% |
+| ₹4,00,001 - ₹8,00,000 | 5% |
+| ₹8,00,001 - ₹12,00,000 | 10% |
+| ₹12,00,001 - ₹16,00,000 | 15% |
+| ₹16,00,001 - ₹20,00,000 | 20% |
+| ₹20,00,001 - ₹24,00,000 | 25% |
+| Above ₹24,00,000 | 30% |
+### SurCharge Rates
+| Annual Income | Surcharge Rate |
+|------------|---------|
+| Up to ₹50 Lakh | 0% |
+| ₹50 Lakh - ₹1 Crore | 10% |
+| ₹1 Crore - ₹2 Crore | 15% |
+| ₹2 Crore - ₹5Crore | 25% |
+| Above ₹5 Crore | 25% |
 
 _(Note: Standard deductions and exemptions may vary as per government notifications.)_
 
